@@ -1,0 +1,33 @@
+body {
+    background-color: #50E3C2;
+}
+
+.middle {
+    background-color: #4A90E2;
+    width: 33%;
+    height: 100vh;
+    margin: auto;
+    display: inline-block;
+}
+
+.rightSide{
+    background-color: #B8E986;
+    width: 33%;
+    Height: 100vh;
+    float: right;
+}
+
+.picBox {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: red;
+    width: 33%;
+    height: 45vh;
+}
+
+p {
+    font-size: 48px;
+    text-align: center;
+    padding-top: 100px;
+}
